@@ -63,10 +63,9 @@ This is a personal project, but feedback and suggestions are always welcome. If 
 
 5. Open a Pull Request
 
-📄 License
+## 📄 License
 
-This project is open-source under the MIT License. See the LICENSE file for more details.
-
+This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for more details.
 📫 Contact
 
 GitHub: @krishnan612
