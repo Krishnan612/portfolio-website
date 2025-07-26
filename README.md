@@ -78,5 +78,12 @@ Portfolio: [Portfolio](https://github.com/Krishnan612/portfolio-website)
 ---
 
 ⭐ If you like this portfolio, give it a star on GitHub!
+---
 
+If you tell me:
+- What technologies you used (HTML only? React? Bootstrap?)
+- Any special features (like animations, dark mode, etc.)
+- Or want help adding badges or logos
+
+…I can make it even better and more personalized!
 ---
