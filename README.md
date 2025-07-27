@@ -20,10 +20,10 @@ Hi! I'm *Krishnan*, a passionate developer/Cybersecurity/DevOps. This portfolio 
 
 🛠 Tech Stack
 
-1.HTML5
-1.CSS3
-1.JavaScript
-1.Deployment via GitHub
+1. HTML5
+1. CSS3
+1. JavaScript
+1. Deployment GitHub
 
 ⚙ Installation
 
