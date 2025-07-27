@@ -70,7 +70,7 @@ This project is open-source under the MIT License. See the [LICENSE](LICENSE) fi
 
 GitHub: @krishnan612
 
-Email: your-email@example.com
+Email: krishnan06122006@gmail.com
 
 Portfolio: [Portfolio](https://github.com/Krishnan612/portfolio-website)
 
